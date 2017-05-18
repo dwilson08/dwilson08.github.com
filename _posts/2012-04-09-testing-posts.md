@@ -14,6 +14,8 @@ There is a theory which states that if ever anybody discovers exactly what the U
 > I love deadlines. I like the whooshing sound they make as they fly by.
 > -Douglas Adams
 
+#Derek is the best
+
 ##Learning to Miss
 
 Flying is learning how to throw yourself at the ground and miss.
